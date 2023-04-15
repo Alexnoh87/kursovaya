@@ -40,7 +40,7 @@
 
 [10 000 000р](https://drive.google.com/file/d/1yA0Vb5uczhTb_M1jz5_b38UcL5dhibWX/view?usp=sharing)
 
-[1р](https://drive.google.com/file/d/1yA0Vb5uczhTb_M1jz5_b38UcL5dhibWX/view?usp=sharing)
+[1р](https://drive.google.com/file/d/1UETkpczVEAl3GJjTg_ByvoGcfCSXLrN2/view?usp=drivesdk)
 
 ## **Задание 5**
 
