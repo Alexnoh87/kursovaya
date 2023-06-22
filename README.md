@@ -1,6 +1,7 @@
 # Тестирование веб-приложений. Интернет магазин одежды Henderson.
 
-## **Задание 1**
+<details>
+<summary><b>Задание 1</b></summary>
 
 Написать чек-лист для функциональной проверки личного кабинета зарегистрированного авторизованного пользователя, включая функционал разделов, на сайте [Henderson](https://henderson.ru/).
 
@@ -10,46 +11,53 @@
 * Каждый пункт проверки в должен быть в отдельной ячейке списка и со своим приоритетом.
 * При составлении списка проверок должны учитываться различные варианты состояний страниц. Например, при проверке функции «Мои отзывы» мы проверяем не только состояние без отзывов, но и с ними.
 * Мы ожидаем от вас список проверок функционала личного кабинета без учёта хедера и футера страницы, то есть то, что есть в этой [области](https://drive.google.com/file/d/1M0BTcDu0_W9z9aBIFUxYYHkc7oeHu20t/view?usp=sharing).
+</details>
 
 [Моё решение](https://docs.google.com/spreadsheets/d/1CpdTOzJdDAapD-BlsG6T2NsnJf38IgsZzmDxzPNecJs/edit#gid=502884428)
 
-## **Задание 2**
+<details>
+<summary><b>Задание 2</b></summary>
 
 1. Необходимо написать набор тест-кейсов на проверку функционала восстановления пароля.
 Ваша задача — написать минимум 20 тест-кейсов, которые должны покрывать всё, что описано в требованиях по [ссылке](https://docs.google.com/document/d/1aotHot6EqrdSu_d-wTpOWCwol_cHDdbycvl8P7rCxQk/edit?usp=sharing), учитывать позитивные и негативные кейсы и включать в себя полные циклы восстановления пароля. Помните, что мы проверяем не только и не столько саму форму, сколько процесс восстановления с применением техник тест-дизайна. Обратите внимание, что основа для написания тестов — информация в требованиях, а не на реальном сайте. К тому же сейчас не все требования можно реализовать на реальном сайте.
 
-[Моё решение](https://docs.google.com/spreadsheets/d/1LdF5M5FPTDbIGlqyh7JwJVL4cfhZ4H2piC3qw129dSI/edit?usp=sharing)
-
 2. Напишите свои вопросы по этим требованиям. Они могут касаться не описанных, но важных сценариев, граничных значений и подобных проблем.
+</details>
 
-[Моё решение](https://docs.google.com/document/d/1awD8KuWN_lLp30eXidrCko7D3rp68WZfsxAyHeghopM/edit?usp=sharing)
+[Моё решение. Пункт 1](https://docs.google.com/spreadsheets/d/1LdF5M5FPTDbIGlqyh7JwJVL4cfhZ4H2piC3qw129dSI/edit?usp=sharing)
 
-## **Задание 3**
+[Моё решение. Пункт 2](https://docs.google.com/document/d/1awD8KuWN_lLp30eXidrCko7D3rp68WZfsxAyHeghopM/edit?usp=sharing)
+
+<details>
+<summary><b>Задание 3</b></summary>
 
 1. На основе [скриншота](https://drive.google.com/file/d/1vG3nreIpQ3Y5MbmBeQ3jVkQfz3ZocaZE/view?usp=sharing) создайте не менее трёх баг-репортов. Обратите внимание, что здесь в окружении мы можем описать тот браузер, с которого проводилась бы проверка, то есть ваш актуальный.
 
-[Моё решение](https://docs.google.com/spreadsheets/d/1T8Lt3j91oOtxKTgZeRmpoodRjO14Nk5BjyfmnGzpuos/edit?usp=sharing)
-
 2. Найдите баг в функции «Написать отзыв» в карточке товара и составьте на него баг-репорт. Если найдёте несколько — замечательно!
+</details>
 
-[Моё решение](https://docs.google.com/spreadsheets/d/1ldp7bu97rQPvJyBN1DGxe3wAXHnZGQBZzcIcjyVTr2Q/edit?usp=sharing)
+[Моё решение. Пункт 1](https://docs.google.com/spreadsheets/d/1T8Lt3j91oOtxKTgZeRmpoodRjO14Nk5BjyfmnGzpuos/edit?usp=sharing)
 
-## **Задание 4**
+[Моё решение. Пункт 2](https://docs.google.com/spreadsheets/d/1ldp7bu97rQPvJyBN1DGxe3wAXHnZGQBZzcIcjyVTr2Q/edit?usp=sharing)
+
+<details>
+<summary><b>Задание 4</b></summary>
 
 Вы тестируете страницу карточки товара. Из ТЗ вы знаете, что товар может стоить от 1 рубля до 10 000 000 рублей. К сожалению, на сайте сейчас товаров с такой ценой нет, а разработчик бэкенда в отпуске, поэтому вам нужно протестировать вёрстку страницы карточки товара с максимальной и минимальной ценой самостоятельно. Ваша задача — самостоятельно определить, как проще это сделать, и предоставить решение в виде скриншотов страницы карточки товара с минимальной и максимальной ценой. Важно, чтобы было видно, с помощью чего вы изменили эту цену.
+</details>
 
-[10 000 000р](https://drive.google.com/file/d/1yA0Vb5uczhTb_M1jz5_b38UcL5dhibWX/view?usp=sharing)
+[Моё решение. Максимальная цена](https://drive.google.com/file/d/1yA0Vb5uczhTb_M1jz5_b38UcL5dhibWX/view?usp=sharing)
 
-[1р](https://drive.google.com/file/d/1UETkpczVEAl3GJjTg_ByvoGcfCSXLrN2/view?usp=drivesdk)
+[Моё решение. Минимальная цена](https://drive.google.com/file/d/1UETkpczVEAl3GJjTg_ByvoGcfCSXLrN2/view?usp=drivesdk)
 
-## **Задание 5**
+<details>
+<summary><b>Задание 5</b></summary>
 
 Бэкенд-разработчик говорит, что мы отправляем данные с сайта в неправильном формате, и просит вас помочь найти нужный запрос. Фронтенд-разработчик ушёл в отпуск в поход без связи, а документация пропала.
 
 Известно, что проблема в данных, которые уходят в POST запросе по адресу, который начинается с https://api.mindbox.ru/. Происходит это, скорее всего, при работе с личными данными пользователя, например, авторизацией, личным кабинетом, просмотром корзины.
 
 Ваша задача — изучить ответы и запросы при работе с сайтом, найти запрос, в котором есть нужные параметры, найти, как же выглядят параметры **_deviceUUID_**, **_requestID_** и **_status_**, и приложить скриншот искомого превью.
+</details>
 
-[POST](https://drive.google.com/file/d/1wpz6izoca9_qSCDKRqsDiwTv7YGKOhaD/view?usp=sharing)
-
-[Параметры](https://drive.google.com/file/d/1qmO7308_eGj1bLxcrxV6exQ6j1-K7jZz/view?usp=sharing)
+[Моё решение](https://drive.google.com/file/d/1qmO7308_eGj1bLxcrxV6exQ6j1-K7jZz/view?usp=sharing)
